@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Track files are binary and must keep their exact bytes (manifest.json pins their SHA-256).
+*.lev binary
+*.vrm binary
+*.sca binary
+*.jpg binary
+tracks/**/manifest.json binary
+tracks/**/metadata/** binary
+listing.json text eol=lf
+index.json text eol=lf
