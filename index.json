@@ -5,9 +5,9 @@
       "id": "a7064da7-1911-5481-98b2-184ec31926e9",
       "title": "Airship Fortress",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "airship-fortress-a7064da7",
-      "pin": "7b78af70ca327089b5c84b86a9099422b99fe64a6f7f24a666a94ef2d18965d8",
+      "pin": "c484341ef55a65a776c4a37f51b09d337d051d8e7943c1b3718c7df75f58c00c",
       "manifest_bytes": 742,
       "modes": [
         "arcade",
@@ -33,9 +33,9 @@
       "id": "709f423c-df14-5b35-a291-022125a7f202",
       "title": "Bowser Castle",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "bowser-castle-709f423c",
-      "pin": "7aa24a384c27cf4008d8d77bfa1a54bf954b5d7cbeb2c0b8fa26d56134d97d43",
+      "pin": "d51859c25ce2454cb818eaca3d500416cccd551039390fc5e4e7d2a7278b5b2d",
       "manifest_bytes": 739,
       "modes": [
         "arcade",
@@ -61,9 +61,9 @@
       "id": "5fd140de-f5e7-5944-bfd9-804a8e3d877a",
       "title": "Cheep Cheep Beach",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "cheep-cheep-beach-5fd140de",
-      "pin": "244caf73d570e984c70212b26bac83a572b914829e742712296a20406caff0be",
+      "pin": "ce46a1f6bd9611c2793c6fa8fd093966199996f68f502e7d6b789b5f7bd3b2d2",
       "manifest_bytes": 743,
       "modes": [
         "arcade",
@@ -89,9 +89,9 @@
       "id": "a4445ae8-6b58-5d36-8a79-fa103b013b10",
       "title": "Delfino Square",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "delfino-square-a4445ae8",
-      "pin": "3fd54aa483db30e936c096bc7d484fcf11075c0c87a74c7bf3e4f4174cc2a635",
+      "pin": "089d4605f0469b153a045acf01989c024e5143556b8ebae524c0d37a07f2eb5d",
       "manifest_bytes": 740,
       "modes": [
         "arcade",
@@ -117,18 +117,18 @@
       "id": "85755a8f-91f2-51ec-b0d7-ac5d0ca4fec3",
       "title": "Desert Hills",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "desert-hills-85755a8f",
-      "pin": "b887c47723df81343f8eb6946fd5171a59f4774542730ede230c39b99ae27bf5",
+      "pin": "aebff1d8563759cb5c4c66f087af36fb1e6fffa885be90d02b3ba954fca7d9fc",
       "manifest_bytes": 738,
       "modes": [
         "arcade",
         "time_trial"
       ],
       "lev": {
-        "bytes": 3077504,
-        "crc32": 2765559206,
-        "sha256": "5335d9af721f32fa8a9566e0cae2f8cfef44ad851f4cbc93f1f6bde70ae4d67e"
+        "bytes": 3076900,
+        "crc32": 1377660313,
+        "sha256": "3f55f7f220b52c01168bbf46ce7c6151325de999a59ca58cfae3891894d732d2"
       },
       "picture": {
         "bytes": 9408,
@@ -137,17 +137,17 @@
       },
       "vrm": {
         "bytes": 458808,
-        "crc32": 2987718079,
-        "sha256": "4a841afba040f81996655be1bb25e4800789137c930f9ab1a6089ec0974a1df4"
+        "crc32": 290587185,
+        "sha256": "7c7795e98164ad205e39c889050b5d653050e9d3c87b0d27064cef363ce7dd4d"
       }
     },
     {
       "id": "59ca9919-2139-56d5-8a02-8be1d3d283e0",
       "title": "DK Pass",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "dk-pass-59ca9919",
-      "pin": "635fe3f293cccde1e36834a5208f73a57c2d8e5664d33f34f4886ae50f889054",
+      "pin": "7e4e4c075aa2ebd04836069153a16b7224578d9bcddd64b55be4970ee2c92b17",
       "manifest_bytes": 733,
       "modes": [
         "arcade",
@@ -173,9 +173,9 @@
       "id": "804af65c-9cf0-5b47-9a4c-11016e87126c",
       "title": "Figure-8 Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "figure-8-circuit-804af65c",
-      "pin": "9bb1644c637173384c5296eb275c9866620f6eec0b94ea94b6a070f000e12784",
+      "pin": "855d83b9cf00496346669ff24633aeca5266a6ce141388e5a72fbb9cd64f3787",
       "manifest_bytes": 742,
       "modes": [
         "arcade",
@@ -201,9 +201,9 @@
       "id": "88ef5caf-0dfd-562f-a3bd-51e3139536a4",
       "title": "GBA Bowser Castle 2",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gba-bowser-castle-2-88ef5caf",
-      "pin": "48dfbe7a9547317d5dc4d33bc1f833579b9bd28ab68189c68a859a086d4ddecb",
+      "pin": "9b87e6f01388f9e394bcaf0cddae2e52a4a4061eb0abd0f184d2d6f176075611",
       "manifest_bytes": 745,
       "modes": [
         "arcade",
@@ -229,9 +229,9 @@
       "id": "b974047c-eaff-5109-b76d-fe91584954a6",
       "title": "GBA Luigi Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gba-luigi-circuit-b974047c",
-      "pin": "80df66fb8f4284ad04eba1790232ca9dd59cb9708d6a181b73406655f9a71b4e",
+      "pin": "254a5851abc01d8d9088de41557edd85f6338f12e8c9bb3eaa0a0590688248ad",
       "manifest_bytes": 743,
       "modes": [
         "arcade",
@@ -257,9 +257,9 @@
       "id": "9ecb81bf-da41-5eb5-8219-44c4b00d8c42",
       "title": "GBA Peach Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gba-peach-circuit-9ecb81bf",
-      "pin": "9dad7be21e8ff8b8f3aee291c48c8c683d60d7e8bdc40408e18dd2fa07e8cc3d",
+      "pin": "277235608cdf15a85e501a831b8b97fdded6b7a84d3d9033309d5a980f89cce2",
       "manifest_bytes": 743,
       "modes": [
         "arcade",
@@ -285,9 +285,9 @@
       "id": "090d0abd-fc61-5c36-9455-5e9e303c8957",
       "title": "GBA Sky Garden",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gba-sky-garden-090d0abd",
-      "pin": "dcb1c9543de6404cfdae52cc2e499f61c65333df0e2c0d0bc80768a05da714a6",
+      "pin": "f7156cd1299f6d897e4da9fc6717d3f913423386f7a73b5d6d2c465421bf99af",
       "manifest_bytes": 740,
       "modes": [
         "arcade",
@@ -313,9 +313,9 @@
       "id": "cc770a76-2556-50f4-9ce1-d4c5793e96e1",
       "title": "GCN Baby Park",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gcn-baby-park-cc770a76",
-      "pin": "71edd8f1c97e69c4f656b2984f74117f85282a65bc70fe778155f7e8f1235ffa",
+      "pin": "77cb7295395e251df5e9c0b5d241d05d47d8341d4f8fec42a5455eb6df02a2fe",
       "manifest_bytes": 739,
       "modes": [
         "arcade",
@@ -341,9 +341,9 @@
       "id": "8f0222de-0d1f-5a39-8f0b-ccf180b61e58",
       "title": "GCN Luigi Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gcn-luigi-circuit-8f0222de",
-      "pin": "5fbc80e5fc4110c65e94e614e7a762ae2c57b649f555163f8dc91f5f3bf5eead",
+      "pin": "a84f2e7b2082ba2d00aeaabfe08036673359cf0308ce251f376b76ba1485981e",
       "manifest_bytes": 743,
       "modes": [
         "arcade",
@@ -369,9 +369,9 @@
       "id": "21d0b6a9-6777-5d2c-9ea9-450cb90c7dea",
       "title": "GCN Mushroom Bridge",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gcn-mushroom-bridge-21d0b6a9",
-      "pin": "605af6988703fc4c63d83aa55e5ff272e7191995431063aa486eb36ad536a730",
+      "pin": "d49196d63f7cbc63cdabdabbca68ef675e51a5036032f4cad1775d5a617a997c",
       "manifest_bytes": 745,
       "modes": [
         "arcade",
@@ -397,9 +397,9 @@
       "id": "aed4a95c-555c-5767-8b06-b8e372f2107a",
       "title": "GCN Yoshi Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "gcn-yoshi-circuit-aed4a95c",
-      "pin": "6b0c22aa99fb407488bab878ff18c05c1e1f4f926101a3f70cc9d41133fb189a",
+      "pin": "a2f04b70816db0ef0928368e05cee16ab8bd483baf4cd8d1d935b6366b118cf5",
       "manifest_bytes": 743,
       "modes": [
         "arcade",
@@ -412,8 +412,8 @@
       },
       "picture": {
         "bytes": 9408,
-        "crc32": 748988079,
-        "sha256": "eb233474f9e1654bbc85fea5d30d2b3045410230e24bca06d6e309f56adb3176"
+        "crc32": 213163848,
+        "sha256": "e8360b4af297731090f6d17bbf11acbe96a33d320478086034f8bf5ef0863f96"
       },
       "vrm": {
         "bytes": 458808,
@@ -425,9 +425,9 @@
       "id": "fa8a2394-98f7-50d5-a78b-b439d6103e19",
       "title": "Luigi's Mansion",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "luigi-s-mansion-fa8a2394",
-      "pin": "e035b3765c693465793e3a4afa87fe139304e3f5eb1238fef4904b78bf75e64f",
+      "pin": "3c89e7f3f5d9dba6a356cd5001f1dec569bd04409057bceb6537dd3cacfbb63f",
       "manifest_bytes": 741,
       "modes": [
         "arcade",
@@ -453,9 +453,9 @@
       "id": "1124bdbf-6ad2-5678-be6b-6a2e36df06e5",
       "title": "Mario Circuit",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "mario-circuit-1124bdbf",
-      "pin": "a03081923029b15ff0317a414bac00b37dd0314a7fb5dc38b01fb1574f5282c6",
+      "pin": "66ce4ad1fba1b08c21901a7ebc72d16bdae16c26cd04a84f22f508ab52f99309",
       "manifest_bytes": 739,
       "modes": [
         "arcade",
@@ -481,9 +481,9 @@
       "id": "d94ebc10-94ae-5503-8bff-5b1f6f737805",
       "title": "N64 Banshee Boardwalk",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "n64-banshee-boardwalk-d94ebc10",
-      "pin": "1d251903bddfff389f69a2778c7b116a795e2a621707de2bf4cdf60f62131d26",
+      "pin": "e67fadd5e4c064002f77bd680c791892a462a44b1912e3bf1f227320c3f0379c",
       "manifest_bytes": 747,
       "modes": [
         "arcade",
@@ -509,9 +509,9 @@
       "id": "f4a18382-eb8f-5817-9edc-95af20b0fdaf",
       "title": "N64 Choco Mountain",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "n64-choco-mountain-f4a18382",
-      "pin": "3746178b8942ec17f54f74c5561101af864e2acda79ffe14ede5abc2292b9a26",
+      "pin": "57595874f0d8b8bc27bed4bfca90fbf1dc0931e9a72dbcb08d9b082e1bf9fcbf",
       "manifest_bytes": 744,
       "modes": [
         "arcade",
@@ -537,9 +537,9 @@
       "id": "b4007064-7610-5a7f-89bb-c4131ffe9ee1",
       "title": "N64 Frappe Snowland",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "n64-frappe-snowland-b4007064",
-      "pin": "fff921b174990c46975715c91ba50998bced34af85d7119ebb7e7c142248eca3",
+      "pin": "5acdb8d6d6487d30921f34f8d8203139de62bfcce4c09f6a8b0c0963d3b3371e",
       "manifest_bytes": 745,
       "modes": [
         "arcade",
@@ -565,9 +565,9 @@
       "id": "dc9e38bc-1ddd-5fcf-ab35-5e8a891b6481",
       "title": "N64 Moo Moo Farm",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "n64-moo-moo-farm-dc9e38bc",
-      "pin": "e597ec49de50c8f0888a3c2fbaa006be010b131106f8bba8c30a7aa30425eecf",
+      "pin": "cfcdb4a6fdedaa060fe0c7f1a41d8c4632b481d0da9ff8fa905fc67ab56cd27c",
       "manifest_bytes": 742,
       "modes": [
         "arcade",
@@ -593,9 +593,9 @@
       "id": "9780cd4e-5bb5-5444-bf81-1c26a1bbd10c",
       "title": "Peach Gardens",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "peach-gardens-9780cd4e",
-      "pin": "248174bc4b93788b534b84e7b64f0bb0d1342f5d7aec7749250766693298a4e0",
+      "pin": "0227c8586496a34ac26ff35bf4f00b2bb09520bf4813389b4f5f579dbff3def2",
       "manifest_bytes": 739,
       "modes": [
         "arcade",
@@ -621,18 +621,18 @@
       "id": "96e24280-5371-5377-81a2-347c6360bbc2",
       "title": "Rainbow Road",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "rainbow-road-96e24280",
-      "pin": "99ae21fbb415b1f9ba4a4d1fd9914331e0d70cffc3e0c13379d738427a756499",
+      "pin": "091f2f2b6fe96ce8a27526b0741bf88ce826c53c4aefe518edee70cf0619ab24",
       "manifest_bytes": 738,
       "modes": [
         "arcade",
         "time_trial"
       ],
       "lev": {
-        "bytes": 4117392,
-        "crc32": 1107720744,
-        "sha256": "d0850f17eae5136266cbd307b38c10e8892eb57b3c597918b160fd48925a3d58"
+        "bytes": 4112568,
+        "crc32": 3947507256,
+        "sha256": "af82e36507729a3f538c3da49a0bb1d185b41a3777a4c67558d680f52c0a1902"
       },
       "picture": {
         "bytes": 9408,
@@ -649,9 +649,9 @@
       "id": "af18deb0-2336-54ee-915e-9205b437e30a",
       "title": "Shroom Ridge",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "shroom-ridge-af18deb0",
-      "pin": "3477dc4853cbe59d6baf3e3e08f1a5144b9047b38a046283c857d5fb5605cb7c",
+      "pin": "04bef216ff7a488882ba22245ee2dd08aa4ddea3e6c2154297275c0b6884af1e",
       "manifest_bytes": 738,
       "modes": [
         "arcade",
@@ -677,9 +677,9 @@
       "id": "4ce3b0e6-d851-5400-93e6-4c05d25f5962",
       "title": "SNES Choco Island 2",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "snes-choco-island-2-4ce3b0e6",
-      "pin": "e589d90945ab8c6c319a066325c6af739ed36a326faa43c0a0b6700be9fe62fe",
+      "pin": "5a517f7fd5faa789a51d99245f56fda563821b693600201a6dc50cae12c16b14",
       "manifest_bytes": 745,
       "modes": [
         "arcade",
@@ -705,9 +705,9 @@
       "id": "94d37248-ebe3-5f01-bb38-d1e872f595e8",
       "title": "SNES Donut Plains 1",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "snes-donut-plains-1-94d37248",
-      "pin": "980d15c1f3f6b6629502d41146a21c9f28be37126df494a97fdc94e4a34f8e60",
+      "pin": "013c5fce496a8310a36c52467d4ab56b3d2d7c53d1ca1843fb869bbb90314939",
       "manifest_bytes": 745,
       "modes": [
         "arcade",
@@ -733,9 +733,9 @@
       "id": "1e78d131-759d-5121-bfe8-9c21f3980598",
       "title": "SNES Koopa Beach 2",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "snes-koopa-beach-2-1e78d131",
-      "pin": "be9fe677395b5b6d88ba4680bbd1e22ab54bb73ee2e3c7538e4ceac8fcb18ce7",
+      "pin": "fbae4ab0496cf8ce3aa41e0fc8ebda6ae120ed44b12783a43ff96acfaa98f654",
       "manifest_bytes": 744,
       "modes": [
         "arcade",
@@ -761,9 +761,9 @@
       "id": "4cee1b11-2c3d-54a2-88ec-20a8ee70535d",
       "title": "SNES Mario Circuit 1",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "snes-mario-circuit-1-4cee1b11",
-      "pin": "e07b45905c4e14b8a8b0b4076779643019e8cf84add4ff439d9cf9e8bb8726d3",
+      "pin": "65beca1dab1e69c760a9c93ef77f77fc090ed194ddc134182973eb37f6a91aa2",
       "manifest_bytes": 746,
       "modes": [
         "arcade",
@@ -789,9 +789,9 @@
       "id": "38ea46b6-91ea-5053-ad46-7ecb28e35ee0",
       "title": "Tick-Tock Clock",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "tick-tock-clock-38ea46b6",
-      "pin": "464b079f9422eb2d390556a108ed452d76f2669eaafd2696dc5f131a0cc93d85",
+      "pin": "36bcaaa3a82035d2855c7c298c2bb66649facd783507d1b506083936818bec13",
       "manifest_bytes": 741,
       "modes": [
         "arcade",
@@ -817,9 +817,9 @@
       "id": "a545f3fb-d9c7-58f1-bb67-1d85f8de3ce0",
       "title": "Waluigi Pinball",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "waluigi-pinball-a545f3fb",
-      "pin": "36cab298eff7a51110311173d140ca8e41c24f19d49056a1684b9724a4449487",
+      "pin": "852e0f18d1629d3028f43d1313003b9ee657aaa333b1919e6e22a098af1e8bc5",
       "manifest_bytes": 741,
       "modes": [
         "arcade",
@@ -832,8 +832,8 @@
       },
       "picture": {
         "bytes": 9408,
-        "crc32": 338835492,
-        "sha256": "e6fbb4b54f257f23fd51ea82f5234d67a31e4a49f225bac05fffe931c1d36961"
+        "crc32": 4169199575,
+        "sha256": "c65e627b0f201ba04d43e6dd2a2b38762679216495625c1e050abf04f4c3be24"
       },
       "vrm": {
         "bytes": 458808,
@@ -845,9 +845,9 @@
       "id": "ea611c4b-e4ea-5945-9e58-54d68420fe4d",
       "title": "Wario Stadium",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "wario-stadium-ea611c4b",
-      "pin": "5100cde7fd61d818992dcdf39fc7c2142a2ca0963bbd4ebf9b5dacbc32d181cd",
+      "pin": "9b024ebc927ac7b0c433ef814af9fdfc1f485d60388485660bc6dde324869777",
       "manifest_bytes": 739,
       "modes": [
         "arcade",
@@ -873,9 +873,9 @@
       "id": "249d5346-1826-5b5c-904c-996a10a26362",
       "title": "Yoshi Falls",
       "author": "Nintendo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folder": "yoshi-falls-249d5346",
-      "pin": "6bf03c2ba5f59f69b8f495f76215fd8d1e504d6f3ceaddc3f0bba66075b0950a",
+      "pin": "1015c651ecc052e3fa66b32d1b47d422d1b7e385de31ef4400960fd4d0024eb0",
       "manifest_bytes": 737,
       "modes": [
         "arcade",
